@@ -2,4 +2,5 @@
     <string name="app_name">Two Activities</string>
     <string name="buttonMain">Send</string>
     <string name="message_recieved">Message Recieved</string>
+    <string name="text_message">Enter your Message Here</string>
 </resources>
